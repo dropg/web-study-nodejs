@@ -1,5 +1,5 @@
 #### Installation dependency package
-1. Node development framework: express,express-art-template
+1. Node development framework: express,art-template,express-art-template
 2. Front frame: bootstrap
 3. Get post data:  body-parser
 4. Processing mongoDB database: mongoose
@@ -15,7 +15,7 @@ Using nodejs to write the server-side code, you can add, delete, and modify the 
 
 
 #### 安装依赖包
-1. node开发框架: express,express-art-template
+1. node开发框架: express,art-template,express-art-template
 2. css前端框架: bootstrap
 3. 获取post数据: body-parser
 4. 处理mongoDB数据库: mongoose
